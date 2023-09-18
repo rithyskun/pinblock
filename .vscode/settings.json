@@ -1,0 +1,23 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true,
+        "source.addMissingImports": true,
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "rvest.vs-code-prettier-eslint",
+    },
+    "prettier.enable": false,
+    "editor.formatOnSave": false,
+    "cSpell.words": [
+        "Cardless",
+        "NATS",
+        "REDHATAMQ",
+        "REDISAMQ",
+        "nvarchar",
+        "pathmazing",
+        "typeorm",
+        "atmDivisibles",
+        "commom",
+        "pinblock"
+    ]
+}
